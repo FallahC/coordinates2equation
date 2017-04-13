@@ -2,11 +2,11 @@
 int main()
 
 {
-    /* Variables */
+    // Variables
     float cor_x_one, cor_y_one, cor_x_two, cor_y_two, slope, intercept;
     char answer;
 
-    /* Calculating the slope */
+    // Calculating the slope
     printf("This program will generate the equation of a linear function using 2 of its points.");
     printf("\nEnter coordinate of first x: ");
     scanf("\n%f", &cor_x_one);
